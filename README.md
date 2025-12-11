@@ -15,9 +15,8 @@ Incluso usar código HTML dentro de markdown
 <div style="border: 1px solid #309920; padding:10px;">
     Esto es texto dentro de un div verde.
 </div>
-| Producto | Cantidad | Precio |
-|----------|---------|--------|
-| Manzanas | 10      | 2.5    |
-| Naranjas | 5       | 1.8    |
-| Plátanos | 12      | 3.0    |
+| Código                                   | Resultado                               |
+|------------------------------------------|-----------------------------------------|
+| Soy la primera celda de la tabla!        | Y yo la segunda                         |
+| Hola hola hola                           | Pues eso, que podemos poner más         |
 
