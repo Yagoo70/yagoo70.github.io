@@ -8,7 +8,7 @@
 > ¿Sabes que este mismo documento está hecho en **markdown**?
 
 Podemos poner imágenes!  
-![Imagen](/github-light/assets/images/frog100x100.jpg)
+![Imagen](https://unsplash.com/es/s/fotos/im%C3%A1genes-impresionantes)
 
 Incluso usar código HTML dentro de markdown
 
